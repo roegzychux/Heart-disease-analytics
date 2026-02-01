@@ -1,0 +1,271 @@
+,age,sex,chest_pain_type,bp,cholesterol,fbs_over_120,ekg_results,max_hr,exercise_angina,st_depression,slope_of_st,number_of_vessels_fluro,thallium,heart_disease,age_group
+0,70,Male,Asymptomatic,130,322,Normal,LV Hypertrophy,109,No pain,2.4,2,3,Normal,Presence,61-70yrs
+1,67,Female,Non-Anginal Pain,115,564,Normal,LV Hypertrophy,160,No pain,1.6,2,0,Reversible Defect (Active),Absence,61-70yrs
+2,57,Male,Atypical Angina,124,261,Normal,Normal,141,No pain,0.3,1,0,Reversible Defect (Active),Presence,51-60yrs
+3,64,Male,Asymptomatic,128,263,Normal,Normal,105,Pain,0.2,2,1,Reversible Defect (Active),Absence,61-70yrs
+4,74,Female,Atypical Angina,120,269,Normal,LV Hypertrophy,121,Pain,0.2,1,1,Normal,Absence,71-80yrs
+5,65,Male,Asymptomatic,120,177,Normal,Normal,140,No pain,0.4,1,0,Reversible Defect (Active),Absence,61-70yrs
+6,56,Male,Non-Anginal Pain,130,256,High (> 120),LV Hypertrophy,142,Pain,0.6,2,1,Fixed Defect (Past Attack),Presence,51-60yrs
+7,59,Male,Asymptomatic,110,239,Normal,LV Hypertrophy,142,Pain,1.2,2,1,Reversible Defect (Active),Presence,51-60yrs
+8,60,Male,Asymptomatic,140,293,Normal,LV Hypertrophy,170,No pain,1.2,2,2,Reversible Defect (Active),Presence,51-60yrs
+9,63,Female,Asymptomatic,150,407,Normal,LV Hypertrophy,154,No pain,4.0,2,3,Reversible Defect (Active),Presence,61-70yrs
+10,59,Male,Asymptomatic,135,234,Normal,Normal,161,No pain,0.5,2,0,Reversible Defect (Active),Absence,51-60yrs
+11,53,Male,Asymptomatic,142,226,Normal,LV Hypertrophy,111,Pain,0.0,1,0,Reversible Defect (Active),Absence,51-60yrs
+12,44,Male,Non-Anginal Pain,140,235,Normal,LV Hypertrophy,180,No pain,0.0,1,0,Normal,Absence,41-50yrs
+13,61,Male,Typical Angina,134,234,Normal,Normal,145,No pain,2.6,2,2,Normal,Presence,61-70yrs
+14,57,Female,Asymptomatic,128,303,Normal,LV Hypertrophy,159,No pain,0.0,1,1,Normal,Absence,51-60yrs
+15,71,Female,Asymptomatic,112,149,Normal,Normal,125,No pain,1.6,2,0,Normal,Absence,71-80yrs
+16,46,Male,Asymptomatic,140,311,Normal,Normal,120,Pain,1.8,2,2,Reversible Defect (Active),Presence,41-50yrs
+17,53,Male,Asymptomatic,140,203,High (> 120),LV Hypertrophy,155,Pain,3.1,3,0,Reversible Defect (Active),Presence,51-60yrs
+18,64,Male,Typical Angina,110,211,Normal,LV Hypertrophy,144,Pain,1.8,2,0,Normal,Absence,61-70yrs
+19,40,Male,Typical Angina,140,199,Normal,Normal,178,Pain,1.4,1,0,Reversible Defect (Active),Absence,28-40yrs
+20,67,Male,Asymptomatic,120,229,Normal,LV Hypertrophy,129,Pain,2.6,2,2,Reversible Defect (Active),Presence,61-70yrs
+21,48,Male,Atypical Angina,130,245,Normal,LV Hypertrophy,180,No pain,0.2,2,0,Normal,Absence,41-50yrs
+22,43,Male,Asymptomatic,115,303,Normal,Normal,181,No pain,1.2,2,0,Normal,Absence,41-50yrs
+23,47,Male,Asymptomatic,112,204,Normal,Normal,143,No pain,0.1,1,0,Normal,Absence,41-50yrs
+24,54,Female,Atypical Angina,132,288,High (> 120),LV Hypertrophy,159,Pain,0.0,1,1,Normal,Absence,51-60yrs
+25,48,Female,Non-Anginal Pain,130,275,Normal,Normal,139,No pain,0.2,1,0,Normal,Absence,41-50yrs
+26,46,Female,Asymptomatic,138,243,Normal,LV Hypertrophy,152,Pain,0.0,2,0,Normal,Absence,41-50yrs
+27,51,Female,Non-Anginal Pain,120,295,Normal,LV Hypertrophy,157,No pain,0.6,1,0,Normal,Absence,51-60yrs
+28,58,Male,Non-Anginal Pain,112,230,Normal,LV Hypertrophy,165,No pain,2.5,2,1,Reversible Defect (Active),Presence,51-60yrs
+29,71,Female,Non-Anginal Pain,110,265,High (> 120),LV Hypertrophy,130,No pain,0.0,1,1,Normal,Absence,71-80yrs
+30,57,Male,Non-Anginal Pain,128,229,Normal,LV Hypertrophy,150,No pain,0.4,2,1,Reversible Defect (Active),Presence,51-60yrs
+31,66,Male,Asymptomatic,160,228,Normal,LV Hypertrophy,138,No pain,2.3,1,0,Fixed Defect (Past Attack),Absence,61-70yrs
+32,37,Female,Non-Anginal Pain,120,215,Normal,Normal,170,No pain,0.0,1,0,Normal,Absence,28-40yrs
+33,59,Male,Asymptomatic,170,326,Normal,LV Hypertrophy,140,Pain,3.4,3,0,Reversible Defect (Active),Presence,51-60yrs
+34,50,Male,Asymptomatic,144,200,Normal,LV Hypertrophy,126,Pain,0.9,2,0,Reversible Defect (Active),Presence,41-50yrs
+35,48,Male,Asymptomatic,130,256,High (> 120),LV Hypertrophy,150,Pain,0.0,1,2,Reversible Defect (Active),Presence,41-50yrs
+36,61,Male,Asymptomatic,140,207,Normal,LV Hypertrophy,138,Pain,1.9,1,1,Reversible Defect (Active),Presence,61-70yrs
+37,59,Male,Typical Angina,160,273,Normal,LV Hypertrophy,125,No pain,0.0,1,0,Normal,Presence,51-60yrs
+38,42,Male,Non-Anginal Pain,130,180,Normal,Normal,150,No pain,0.0,1,0,Normal,Absence,41-50yrs
+39,48,Male,Asymptomatic,122,222,Normal,LV Hypertrophy,186,No pain,0.0,1,0,Normal,Absence,41-50yrs
+40,40,Male,Asymptomatic,152,223,Normal,Normal,181,No pain,0.0,1,0,Reversible Defect (Active),Presence,28-40yrs
+41,62,Female,Asymptomatic,124,209,Normal,Normal,163,No pain,0.0,1,0,Normal,Absence,61-70yrs
+42,44,Male,Non-Anginal Pain,130,233,Normal,Normal,179,Pain,0.4,1,0,Normal,Absence,41-50yrs
+43,46,Male,Atypical Angina,101,197,High (> 120),Normal,156,No pain,0.0,1,0,Reversible Defect (Active),Absence,41-50yrs
+44,59,Male,Non-Anginal Pain,126,218,High (> 120),Normal,134,No pain,2.2,2,1,Fixed Defect (Past Attack),Presence,51-60yrs
+45,58,Male,Non-Anginal Pain,140,211,High (> 120),LV Hypertrophy,165,No pain,0.0,1,0,Normal,Absence,51-60yrs
+46,49,Male,Non-Anginal Pain,118,149,Normal,LV Hypertrophy,126,No pain,0.8,1,3,Normal,Presence,41-50yrs
+47,44,Male,Asymptomatic,110,197,Normal,LV Hypertrophy,177,No pain,0.0,1,1,Normal,Presence,41-50yrs
+48,66,Male,Atypical Angina,160,246,Normal,Normal,120,Pain,0.0,2,3,Fixed Defect (Past Attack),Presence,61-70yrs
+49,65,Female,Asymptomatic,150,225,Normal,LV Hypertrophy,114,No pain,1.0,2,3,Reversible Defect (Active),Presence,61-70yrs
+50,42,Male,Asymptomatic,136,315,Normal,Normal,125,Pain,1.8,2,0,Fixed Defect (Past Attack),Presence,41-50yrs
+51,52,Male,Atypical Angina,128,205,High (> 120),Normal,184,No pain,0.0,1,0,Normal,Absence,51-60yrs
+52,65,Female,Non-Anginal Pain,140,417,High (> 120),LV Hypertrophy,157,No pain,0.8,1,1,Normal,Absence,61-70yrs
+53,63,Female,Atypical Angina,140,195,Normal,Normal,179,No pain,0.0,1,2,Normal,Absence,61-70yrs
+54,45,Female,Atypical Angina,130,234,Normal,LV Hypertrophy,175,No pain,0.6,2,0,Normal,Absence,41-50yrs
+55,41,Female,Atypical Angina,105,198,Normal,Normal,168,No pain,0.0,1,1,Normal,Absence,41-50yrs
+56,61,Male,Asymptomatic,138,166,Normal,LV Hypertrophy,125,Pain,3.6,2,1,Normal,Presence,61-70yrs
+57,60,Female,Non-Anginal Pain,120,178,High (> 120),Normal,96,No pain,0.0,1,0,Normal,Absence,51-60yrs
+58,59,Female,Asymptomatic,174,249,Normal,Normal,143,Pain,0.0,2,0,Normal,Presence,51-60yrs
+59,62,Male,Atypical Angina,120,281,Normal,LV Hypertrophy,103,No pain,1.4,2,1,Reversible Defect (Active),Presence,61-70yrs
+60,57,Male,Non-Anginal Pain,150,126,High (> 120),Normal,173,No pain,0.2,1,1,Reversible Defect (Active),Absence,51-60yrs
+61,51,Female,Asymptomatic,130,305,Normal,Normal,142,Pain,1.2,2,0,Reversible Defect (Active),Presence,51-60yrs
+62,44,Male,Non-Anginal Pain,120,226,Normal,Normal,169,No pain,0.0,1,0,Normal,Absence,41-50yrs
+63,60,Female,Typical Angina,150,240,Normal,Normal,171,No pain,0.9,1,0,Normal,Absence,51-60yrs
+64,63,Male,Typical Angina,145,233,High (> 120),LV Hypertrophy,150,No pain,2.3,3,0,Fixed Defect (Past Attack),Absence,61-70yrs
+65,57,Male,Asymptomatic,150,276,Normal,LV Hypertrophy,112,Pain,0.6,2,1,Fixed Defect (Past Attack),Presence,51-60yrs
+66,51,Male,Asymptomatic,140,261,Normal,LV Hypertrophy,186,Pain,0.0,1,0,Normal,Absence,51-60yrs
+67,58,Female,Atypical Angina,136,319,High (> 120),LV Hypertrophy,152,No pain,0.0,1,2,Normal,Presence,51-60yrs
+68,44,Female,Non-Anginal Pain,118,242,Normal,Normal,149,No pain,0.3,2,1,Normal,Absence,41-50yrs
+69,47,Male,Non-Anginal Pain,108,243,Normal,Normal,152,No pain,0.0,1,0,Normal,Presence,41-50yrs
+70,61,Male,Asymptomatic,120,260,Normal,Normal,140,Pain,3.6,2,1,Reversible Defect (Active),Presence,61-70yrs
+71,57,Female,Asymptomatic,120,354,Normal,Normal,163,Pain,0.6,1,0,Normal,Absence,51-60yrs
+72,70,Male,Atypical Angina,156,245,Normal,LV Hypertrophy,143,No pain,0.0,1,0,Normal,Absence,61-70yrs
+73,76,Female,Non-Anginal Pain,140,197,Normal,ST-T Abnormality,116,No pain,1.1,2,0,Normal,Absence,71-80yrs
+74,67,Female,Asymptomatic,106,223,Normal,Normal,142,No pain,0.3,1,2,Normal,Absence,61-70yrs
+75,45,Male,Asymptomatic,142,309,Normal,LV Hypertrophy,147,Pain,0.0,2,3,Reversible Defect (Active),Presence,41-50yrs
+76,45,Male,Asymptomatic,104,208,Normal,LV Hypertrophy,148,Pain,3.0,2,0,Normal,Absence,41-50yrs
+77,39,Female,Non-Anginal Pain,94,199,Normal,Normal,179,No pain,0.0,1,0,Normal,Absence,28-40yrs
+78,42,Female,Non-Anginal Pain,120,209,Normal,Normal,173,No pain,0.0,2,0,Normal,Absence,41-50yrs
+79,56,Male,Atypical Angina,120,236,Normal,Normal,178,No pain,0.8,1,0,Normal,Absence,51-60yrs
+80,58,Male,Asymptomatic,146,218,Normal,Normal,105,No pain,2.0,2,1,Reversible Defect (Active),Presence,51-60yrs
+81,35,Male,Asymptomatic,120,198,Normal,Normal,130,Pain,1.6,2,0,Reversible Defect (Active),Presence,28-40yrs
+82,58,Male,Asymptomatic,150,270,Normal,LV Hypertrophy,111,Pain,0.8,1,0,Reversible Defect (Active),Presence,51-60yrs
+83,41,Male,Non-Anginal Pain,130,214,Normal,LV Hypertrophy,168,No pain,2.0,2,0,Normal,Absence,41-50yrs
+84,57,Male,Asymptomatic,110,201,Normal,Normal,126,Pain,1.5,2,0,Fixed Defect (Past Attack),Absence,51-60yrs
+85,42,Male,Typical Angina,148,244,Normal,LV Hypertrophy,178,No pain,0.8,1,2,Normal,Absence,41-50yrs
+86,62,Male,Atypical Angina,128,208,High (> 120),LV Hypertrophy,140,No pain,0.0,1,0,Normal,Absence,61-70yrs
+87,59,Male,Typical Angina,178,270,Normal,LV Hypertrophy,145,No pain,4.2,3,0,Reversible Defect (Active),Absence,51-60yrs
+88,41,Female,Atypical Angina,126,306,Normal,Normal,163,No pain,0.0,1,0,Normal,Absence,41-50yrs
+89,50,Male,Asymptomatic,150,243,Normal,LV Hypertrophy,128,No pain,2.6,2,0,Reversible Defect (Active),Presence,41-50yrs
+90,59,Male,Atypical Angina,140,221,Normal,Normal,164,Pain,0.0,1,0,Normal,Absence,51-60yrs
+91,61,Female,Asymptomatic,130,330,Normal,LV Hypertrophy,169,No pain,0.0,1,0,Normal,Presence,61-70yrs
+92,54,Male,Asymptomatic,124,266,Normal,LV Hypertrophy,109,Pain,2.2,2,1,Reversible Defect (Active),Presence,51-60yrs
+93,54,Male,Asymptomatic,110,206,Normal,LV Hypertrophy,108,Pain,0.0,2,1,Normal,Presence,51-60yrs
+94,52,Male,Asymptomatic,125,212,Normal,Normal,168,No pain,1.0,1,2,Reversible Defect (Active),Presence,51-60yrs
+95,47,Male,Asymptomatic,110,275,Normal,LV Hypertrophy,118,Pain,1.0,2,1,Normal,Presence,41-50yrs
+96,66,Male,Asymptomatic,120,302,Normal,LV Hypertrophy,151,No pain,0.4,2,0,Normal,Absence,61-70yrs
+97,58,Male,Asymptomatic,100,234,Normal,Normal,156,No pain,0.1,1,1,Reversible Defect (Active),Presence,51-60yrs
+98,64,Female,Non-Anginal Pain,140,313,Normal,Normal,133,No pain,0.2,1,0,Reversible Defect (Active),Absence,61-70yrs
+99,50,Female,Atypical Angina,120,244,Normal,Normal,162,No pain,1.1,1,0,Normal,Absence,41-50yrs
+100,44,Female,Non-Anginal Pain,108,141,Normal,Normal,175,No pain,0.6,2,0,Normal,Absence,41-50yrs
+101,67,Male,Asymptomatic,120,237,Normal,Normal,71,No pain,1.0,2,0,Normal,Presence,61-70yrs
+102,49,Female,Asymptomatic,130,269,Normal,Normal,163,No pain,0.0,1,0,Normal,Absence,41-50yrs
+103,57,Male,Asymptomatic,165,289,High (> 120),LV Hypertrophy,124,No pain,1.0,2,3,Reversible Defect (Active),Presence,51-60yrs
+104,63,Male,Asymptomatic,130,254,Normal,LV Hypertrophy,147,No pain,1.4,2,1,Reversible Defect (Active),Presence,61-70yrs
+105,48,Male,Asymptomatic,124,274,Normal,LV Hypertrophy,166,No pain,0.5,2,0,Reversible Defect (Active),Presence,41-50yrs
+106,51,Male,Non-Anginal Pain,100,222,Normal,Normal,143,Pain,1.2,2,0,Normal,Absence,51-60yrs
+107,60,Female,Asymptomatic,150,258,Normal,LV Hypertrophy,157,No pain,2.6,2,2,Reversible Defect (Active),Presence,51-60yrs
+108,59,Male,Asymptomatic,140,177,Normal,Normal,162,Pain,0.0,1,1,Reversible Defect (Active),Presence,51-60yrs
+109,45,Female,Atypical Angina,112,160,Normal,Normal,138,No pain,0.0,2,0,Normal,Absence,41-50yrs
+110,55,Female,Asymptomatic,180,327,Normal,ST-T Abnormality,117,Pain,3.4,2,0,Normal,Presence,51-60yrs
+111,41,Male,Atypical Angina,110,235,Normal,Normal,153,No pain,0.0,1,0,Normal,Absence,41-50yrs
+112,60,Female,Asymptomatic,158,305,Normal,LV Hypertrophy,161,No pain,0.0,1,0,Normal,Presence,51-60yrs
+113,54,Female,Non-Anginal Pain,135,304,High (> 120),Normal,170,No pain,0.0,1,0,Normal,Absence,51-60yrs
+114,42,Male,Atypical Angina,120,295,Normal,Normal,162,No pain,0.0,1,0,Normal,Absence,41-50yrs
+115,49,Female,Atypical Angina,134,271,Normal,Normal,162,No pain,0.0,2,0,Normal,Absence,41-50yrs
+116,46,Male,Asymptomatic,120,249,Normal,LV Hypertrophy,144,No pain,0.8,1,0,Reversible Defect (Active),Presence,41-50yrs
+117,56,Female,Asymptomatic,200,288,High (> 120),LV Hypertrophy,133,Pain,4.0,3,2,Reversible Defect (Active),Presence,51-60yrs
+118,66,Female,Typical Angina,150,226,Normal,Normal,114,No pain,2.6,3,0,Normal,Absence,61-70yrs
+119,56,Male,Asymptomatic,130,283,High (> 120),LV Hypertrophy,103,Pain,1.6,3,0,Reversible Defect (Active),Presence,51-60yrs
+120,49,Male,Non-Anginal Pain,120,188,Normal,Normal,139,No pain,2.0,2,3,Reversible Defect (Active),Presence,41-50yrs
+121,54,Male,Asymptomatic,122,286,Normal,LV Hypertrophy,116,Pain,3.2,2,2,Normal,Presence,51-60yrs
+122,57,Male,Asymptomatic,152,274,Normal,Normal,88,Pain,1.2,2,1,Reversible Defect (Active),Presence,51-60yrs
+123,65,Female,Non-Anginal Pain,160,360,Normal,LV Hypertrophy,151,No pain,0.8,1,0,Normal,Absence,61-70yrs
+124,54,Male,Non-Anginal Pain,125,273,Normal,LV Hypertrophy,152,No pain,0.5,3,1,Normal,Absence,51-60yrs
+125,54,Female,Non-Anginal Pain,160,201,Normal,Normal,163,No pain,0.0,1,1,Normal,Absence,51-60yrs
+126,62,Male,Asymptomatic,120,267,Normal,Normal,99,Pain,1.8,2,2,Reversible Defect (Active),Presence,61-70yrs
+127,52,Female,Non-Anginal Pain,136,196,Normal,LV Hypertrophy,169,No pain,0.1,2,0,Normal,Absence,51-60yrs
+128,52,Male,Atypical Angina,134,201,Normal,Normal,158,No pain,0.8,1,1,Normal,Absence,51-60yrs
+129,60,Male,Asymptomatic,117,230,High (> 120),Normal,160,Pain,1.4,1,2,Reversible Defect (Active),Presence,51-60yrs
+130,63,Female,Asymptomatic,108,269,Normal,Normal,169,Pain,1.8,2,2,Normal,Presence,61-70yrs
+131,66,Male,Asymptomatic,112,212,Normal,LV Hypertrophy,132,Pain,0.1,1,1,Normal,Presence,61-70yrs
+132,42,Male,Asymptomatic,140,226,Normal,Normal,178,No pain,0.0,1,0,Normal,Absence,41-50yrs
+133,64,Male,Asymptomatic,120,246,Normal,LV Hypertrophy,96,Pain,2.2,3,1,Normal,Presence,61-70yrs
+134,54,Male,Non-Anginal Pain,150,232,Normal,LV Hypertrophy,165,No pain,1.6,1,0,Reversible Defect (Active),Absence,51-60yrs
+135,46,Female,Non-Anginal Pain,142,177,Normal,LV Hypertrophy,160,Pain,1.4,3,0,Normal,Absence,41-50yrs
+136,67,Female,Non-Anginal Pain,152,277,Normal,Normal,172,No pain,0.0,1,1,Normal,Absence,61-70yrs
+137,56,Male,Asymptomatic,125,249,High (> 120),LV Hypertrophy,144,Pain,1.2,2,1,Normal,Presence,51-60yrs
+138,34,Female,Atypical Angina,118,210,Normal,Normal,192,No pain,0.7,1,0,Normal,Absence,28-40yrs
+139,57,Male,Asymptomatic,132,207,Normal,Normal,168,Pain,0.0,1,0,Reversible Defect (Active),Absence,51-60yrs
+140,64,Male,Asymptomatic,145,212,Normal,LV Hypertrophy,132,No pain,2.0,2,2,Fixed Defect (Past Attack),Presence,61-70yrs
+141,59,Male,Asymptomatic,138,271,Normal,LV Hypertrophy,182,No pain,0.0,1,0,Normal,Absence,51-60yrs
+142,50,Male,Non-Anginal Pain,140,233,Normal,Normal,163,No pain,0.6,2,1,Reversible Defect (Active),Presence,41-50yrs
+143,51,Male,Typical Angina,125,213,Normal,LV Hypertrophy,125,Pain,1.4,1,1,Normal,Absence,51-60yrs
+144,54,Male,Atypical Angina,192,283,Normal,LV Hypertrophy,195,No pain,0.0,1,1,Reversible Defect (Active),Presence,51-60yrs
+145,53,Male,Asymptomatic,123,282,Normal,Normal,95,Pain,2.0,2,2,Reversible Defect (Active),Presence,51-60yrs
+146,52,Male,Asymptomatic,112,230,Normal,Normal,160,No pain,0.0,1,1,Normal,Presence,51-60yrs
+147,40,Male,Asymptomatic,110,167,Normal,LV Hypertrophy,114,Pain,2.0,2,0,Reversible Defect (Active),Presence,28-40yrs
+148,58,Male,Non-Anginal Pain,132,224,Normal,LV Hypertrophy,173,No pain,3.2,1,2,Reversible Defect (Active),Presence,51-60yrs
+149,41,Female,Non-Anginal Pain,112,268,Normal,LV Hypertrophy,172,Pain,0.0,1,0,Normal,Absence,41-50yrs
+150,41,Male,Non-Anginal Pain,112,250,Normal,Normal,179,No pain,0.0,1,0,Normal,Absence,41-50yrs
+151,50,Female,Non-Anginal Pain,120,219,Normal,Normal,158,No pain,1.6,2,0,Normal,Absence,41-50yrs
+152,54,Female,Non-Anginal Pain,108,267,Normal,LV Hypertrophy,167,No pain,0.0,1,0,Normal,Absence,51-60yrs
+153,64,Female,Asymptomatic,130,303,Normal,Normal,122,No pain,2.0,2,2,Normal,Absence,61-70yrs
+154,51,Female,Non-Anginal Pain,130,256,Normal,LV Hypertrophy,149,No pain,0.5,1,0,Normal,Absence,51-60yrs
+155,46,Female,Atypical Angina,105,204,Normal,Normal,172,No pain,0.0,1,0,Normal,Absence,41-50yrs
+156,55,Male,Asymptomatic,140,217,Normal,Normal,111,Pain,5.6,3,0,Reversible Defect (Active),Presence,51-60yrs
+157,45,Male,Atypical Angina,128,308,Normal,LV Hypertrophy,170,No pain,0.0,1,0,Normal,Absence,41-50yrs
+158,56,Male,Typical Angina,120,193,Normal,LV Hypertrophy,162,No pain,1.9,2,0,Reversible Defect (Active),Absence,51-60yrs
+159,66,Female,Asymptomatic,178,228,High (> 120),Normal,165,Pain,1.0,2,2,Reversible Defect (Active),Presence,61-70yrs
+160,38,Male,Typical Angina,120,231,Normal,Normal,182,Pain,3.8,2,0,Reversible Defect (Active),Presence,28-40yrs
+161,62,Female,Asymptomatic,150,244,Normal,Normal,154,Pain,1.4,2,0,Normal,Presence,61-70yrs
+162,55,Male,Atypical Angina,130,262,Normal,Normal,155,No pain,0.0,1,0,Normal,Absence,51-60yrs
+163,58,Male,Asymptomatic,128,259,Normal,LV Hypertrophy,130,Pain,3.0,2,2,Reversible Defect (Active),Presence,51-60yrs
+164,43,Male,Asymptomatic,110,211,Normal,Normal,161,No pain,0.0,1,0,Reversible Defect (Active),Absence,41-50yrs
+165,64,Female,Asymptomatic,180,325,Normal,Normal,154,Pain,0.0,1,0,Normal,Absence,61-70yrs
+166,50,Female,Asymptomatic,110,254,Normal,LV Hypertrophy,159,No pain,0.0,1,0,Normal,Absence,41-50yrs
+167,53,Male,Non-Anginal Pain,130,197,High (> 120),LV Hypertrophy,152,No pain,1.2,3,0,Normal,Absence,51-60yrs
+168,45,Female,Asymptomatic,138,236,Normal,LV Hypertrophy,152,Pain,0.2,2,0,Normal,Absence,41-50yrs
+169,65,Male,Typical Angina,138,282,High (> 120),LV Hypertrophy,174,No pain,1.4,2,1,Normal,Presence,61-70yrs
+170,69,Male,Typical Angina,160,234,High (> 120),LV Hypertrophy,131,No pain,0.1,2,1,Normal,Absence,61-70yrs
+171,69,Male,Non-Anginal Pain,140,254,Normal,LV Hypertrophy,146,No pain,2.0,2,3,Reversible Defect (Active),Presence,61-70yrs
+172,67,Male,Asymptomatic,100,299,Normal,LV Hypertrophy,125,Pain,0.9,2,2,Normal,Presence,61-70yrs
+173,68,Female,Non-Anginal Pain,120,211,Normal,LV Hypertrophy,115,No pain,1.5,2,0,Normal,Absence,61-70yrs
+174,34,Male,Typical Angina,118,182,Normal,LV Hypertrophy,174,No pain,0.0,1,0,Normal,Absence,28-40yrs
+175,62,Female,Asymptomatic,138,294,High (> 120),Normal,106,No pain,1.9,2,3,Normal,Presence,61-70yrs
+176,51,Male,Asymptomatic,140,298,Normal,Normal,122,Pain,4.2,2,3,Reversible Defect (Active),Presence,51-60yrs
+177,46,Male,Non-Anginal Pain,150,231,Normal,Normal,147,No pain,3.6,2,0,Normal,Presence,41-50yrs
+178,67,Male,Asymptomatic,125,254,High (> 120),Normal,163,No pain,0.2,2,2,Reversible Defect (Active),Presence,61-70yrs
+179,50,Male,Non-Anginal Pain,129,196,Normal,Normal,163,No pain,0.0,1,0,Normal,Absence,41-50yrs
+180,42,Male,Non-Anginal Pain,120,240,High (> 120),Normal,194,No pain,0.8,3,0,Reversible Defect (Active),Absence,41-50yrs
+181,56,Female,Asymptomatic,134,409,Normal,LV Hypertrophy,150,Pain,1.9,2,2,Reversible Defect (Active),Presence,51-60yrs
+182,41,Male,Asymptomatic,110,172,Normal,LV Hypertrophy,158,No pain,0.0,1,0,Reversible Defect (Active),Presence,41-50yrs
+183,42,Female,Asymptomatic,102,265,Normal,LV Hypertrophy,122,No pain,0.6,2,0,Normal,Absence,41-50yrs
+184,53,Male,Non-Anginal Pain,130,246,High (> 120),LV Hypertrophy,173,No pain,0.0,1,3,Normal,Absence,51-60yrs
+185,43,Male,Non-Anginal Pain,130,315,Normal,Normal,162,No pain,1.9,1,1,Normal,Absence,41-50yrs
+186,56,Male,Asymptomatic,132,184,Normal,LV Hypertrophy,105,Pain,2.1,2,1,Fixed Defect (Past Attack),Presence,51-60yrs
+187,52,Male,Asymptomatic,108,233,High (> 120),Normal,147,No pain,0.1,1,3,Reversible Defect (Active),Absence,51-60yrs
+188,62,Female,Asymptomatic,140,394,Normal,LV Hypertrophy,157,No pain,1.2,2,0,Normal,Absence,61-70yrs
+189,70,Male,Non-Anginal Pain,160,269,Normal,Normal,112,Pain,2.9,2,1,Reversible Defect (Active),Presence,61-70yrs
+190,54,Male,Asymptomatic,140,239,Normal,Normal,160,No pain,1.2,1,0,Normal,Absence,51-60yrs
+191,70,Male,Asymptomatic,145,174,Normal,Normal,125,Pain,2.6,3,0,Reversible Defect (Active),Presence,61-70yrs
+192,54,Male,Atypical Angina,108,309,Normal,Normal,156,No pain,0.0,1,0,Reversible Defect (Active),Absence,51-60yrs
+193,35,Male,Asymptomatic,126,282,Normal,LV Hypertrophy,156,Pain,0.0,1,0,Reversible Defect (Active),Presence,28-40yrs
+194,48,Male,Non-Anginal Pain,124,255,High (> 120),Normal,175,No pain,0.0,1,2,Normal,Absence,41-50yrs
+195,55,Female,Atypical Angina,135,250,Normal,LV Hypertrophy,161,No pain,1.4,2,0,Normal,Absence,51-60yrs
+196,58,Female,Asymptomatic,100,248,Normal,LV Hypertrophy,122,No pain,1.0,2,0,Normal,Absence,51-60yrs
+197,54,Female,Non-Anginal Pain,110,214,Normal,Normal,158,No pain,1.6,2,0,Normal,Absence,51-60yrs
+198,69,Female,Typical Angina,140,239,Normal,Normal,151,No pain,1.8,1,2,Normal,Absence,61-70yrs
+199,77,Male,Asymptomatic,125,304,Normal,LV Hypertrophy,162,Pain,0.0,1,3,Normal,Presence,71-80yrs
+200,68,Male,Non-Anginal Pain,118,277,Normal,Normal,151,No pain,1.0,1,1,Reversible Defect (Active),Absence,61-70yrs
+201,58,Male,Asymptomatic,125,300,Normal,LV Hypertrophy,171,No pain,0.0,1,2,Reversible Defect (Active),Presence,51-60yrs
+202,60,Male,Asymptomatic,125,258,Normal,LV Hypertrophy,141,Pain,2.8,2,1,Reversible Defect (Active),Presence,51-60yrs
+203,51,Male,Asymptomatic,140,299,Normal,Normal,173,Pain,1.6,1,0,Reversible Defect (Active),Presence,51-60yrs
+204,55,Male,Asymptomatic,160,289,Normal,LV Hypertrophy,145,Pain,0.8,2,1,Reversible Defect (Active),Presence,51-60yrs
+205,52,Male,Typical Angina,152,298,High (> 120),Normal,178,No pain,1.2,2,0,Reversible Defect (Active),Absence,51-60yrs
+206,60,Female,Non-Anginal Pain,102,318,Normal,Normal,160,No pain,0.0,1,1,Normal,Absence,51-60yrs
+207,58,Male,Non-Anginal Pain,105,240,Normal,LV Hypertrophy,154,Pain,0.6,2,0,Reversible Defect (Active),Absence,51-60yrs
+208,64,Male,Non-Anginal Pain,125,309,Normal,Normal,131,Pain,1.8,2,0,Reversible Defect (Active),Presence,61-70yrs
+209,37,Male,Non-Anginal Pain,130,250,Normal,Normal,187,No pain,3.5,3,0,Normal,Absence,28-40yrs
+210,59,Male,Typical Angina,170,288,Normal,LV Hypertrophy,159,No pain,0.2,2,0,Reversible Defect (Active),Presence,51-60yrs
+211,51,Male,Non-Anginal Pain,125,245,High (> 120),LV Hypertrophy,166,No pain,2.4,2,0,Normal,Absence,51-60yrs
+212,43,Female,Non-Anginal Pain,122,213,Normal,Normal,165,No pain,0.2,2,0,Normal,Absence,41-50yrs
+213,58,Male,Asymptomatic,128,216,Normal,LV Hypertrophy,131,Pain,2.2,2,3,Reversible Defect (Active),Presence,51-60yrs
+214,29,Male,Atypical Angina,130,204,Normal,LV Hypertrophy,202,No pain,0.0,1,0,Normal,Absence,
+215,41,Female,Atypical Angina,130,204,Normal,LV Hypertrophy,172,No pain,1.4,1,0,Normal,Absence,41-50yrs
+216,63,Female,Non-Anginal Pain,135,252,Normal,LV Hypertrophy,172,No pain,0.0,1,0,Normal,Absence,61-70yrs
+217,51,Male,Non-Anginal Pain,94,227,Normal,Normal,154,Pain,0.0,1,1,Reversible Defect (Active),Absence,51-60yrs
+218,54,Male,Non-Anginal Pain,120,258,Normal,LV Hypertrophy,147,No pain,0.4,2,0,Reversible Defect (Active),Absence,51-60yrs
+219,44,Male,Atypical Angina,120,220,Normal,Normal,170,No pain,0.0,1,0,Normal,Absence,41-50yrs
+220,54,Male,Asymptomatic,110,239,Normal,Normal,126,Pain,2.8,2,1,Reversible Defect (Active),Presence,51-60yrs
+221,65,Male,Asymptomatic,135,254,Normal,LV Hypertrophy,127,No pain,2.8,2,1,Reversible Defect (Active),Presence,61-70yrs
+222,57,Male,Non-Anginal Pain,150,168,Normal,Normal,174,No pain,1.6,1,0,Normal,Absence,51-60yrs
+223,63,Male,Asymptomatic,130,330,High (> 120),LV Hypertrophy,132,Pain,1.8,1,3,Reversible Defect (Active),Presence,61-70yrs
+224,35,Female,Asymptomatic,138,183,Normal,Normal,182,No pain,1.4,1,0,Normal,Absence,28-40yrs
+225,41,Male,Atypical Angina,135,203,Normal,Normal,132,No pain,0.0,2,0,Fixed Defect (Past Attack),Absence,41-50yrs
+226,62,Female,Non-Anginal Pain,130,263,Normal,Normal,97,No pain,1.2,2,1,Reversible Defect (Active),Presence,61-70yrs
+227,43,Female,Asymptomatic,132,341,High (> 120),LV Hypertrophy,136,Pain,3.0,2,0,Reversible Defect (Active),Presence,41-50yrs
+228,58,Female,Typical Angina,150,283,High (> 120),LV Hypertrophy,162,No pain,1.0,1,0,Normal,Absence,51-60yrs
+229,52,Male,Typical Angina,118,186,Normal,LV Hypertrophy,190,No pain,0.0,2,0,Fixed Defect (Past Attack),Absence,51-60yrs
+230,61,Female,Asymptomatic,145,307,Normal,LV Hypertrophy,146,Pain,1.0,2,0,Reversible Defect (Active),Presence,61-70yrs
+231,39,Male,Asymptomatic,118,219,Normal,Normal,140,No pain,1.2,2,0,Reversible Defect (Active),Presence,28-40yrs
+232,45,Male,Asymptomatic,115,260,Normal,LV Hypertrophy,185,No pain,0.0,1,0,Normal,Absence,41-50yrs
+233,52,Male,Asymptomatic,128,255,Normal,Normal,161,Pain,0.0,1,1,Reversible Defect (Active),Presence,51-60yrs
+234,62,Male,Non-Anginal Pain,130,231,Normal,Normal,146,No pain,1.8,2,3,Reversible Defect (Active),Absence,61-70yrs
+235,62,Female,Asymptomatic,160,164,Normal,LV Hypertrophy,145,No pain,6.2,3,3,Reversible Defect (Active),Presence,61-70yrs
+236,53,Female,Asymptomatic,138,234,Normal,LV Hypertrophy,160,No pain,0.0,1,0,Normal,Absence,51-60yrs
+237,43,Male,Asymptomatic,120,177,Normal,LV Hypertrophy,120,Pain,2.5,2,0,Reversible Defect (Active),Presence,41-50yrs
+238,47,Male,Non-Anginal Pain,138,257,Normal,LV Hypertrophy,156,No pain,0.0,1,0,Normal,Absence,41-50yrs
+239,52,Male,Atypical Angina,120,325,Normal,Normal,172,No pain,0.2,1,0,Normal,Absence,51-60yrs
+240,68,Male,Non-Anginal Pain,180,274,High (> 120),LV Hypertrophy,150,Pain,1.6,2,0,Reversible Defect (Active),Presence,61-70yrs
+241,39,Male,Non-Anginal Pain,140,321,Normal,LV Hypertrophy,182,No pain,0.0,1,0,Normal,Absence,28-40yrs
+242,53,Female,Asymptomatic,130,264,Normal,LV Hypertrophy,143,No pain,0.4,2,0,Normal,Absence,51-60yrs
+243,62,Female,Asymptomatic,140,268,Normal,LV Hypertrophy,160,No pain,3.6,3,2,Normal,Presence,61-70yrs
+244,51,Female,Non-Anginal Pain,140,308,Normal,LV Hypertrophy,142,No pain,1.5,1,1,Normal,Absence,51-60yrs
+245,60,Male,Asymptomatic,130,253,Normal,Normal,144,Pain,1.4,1,1,Reversible Defect (Active),Presence,51-60yrs
+246,65,Male,Asymptomatic,110,248,Normal,LV Hypertrophy,158,No pain,0.6,1,2,Fixed Defect (Past Attack),Presence,61-70yrs
+247,65,Female,Non-Anginal Pain,155,269,Normal,Normal,148,No pain,0.8,1,0,Normal,Absence,61-70yrs
+248,60,Male,Non-Anginal Pain,140,185,Normal,LV Hypertrophy,155,No pain,3.0,2,0,Normal,Presence,51-60yrs
+249,60,Male,Asymptomatic,145,282,Normal,LV Hypertrophy,142,Pain,2.8,2,2,Reversible Defect (Active),Presence,51-60yrs
+250,54,Male,Asymptomatic,120,188,Normal,Normal,113,No pain,1.4,2,1,Reversible Defect (Active),Presence,51-60yrs
+251,44,Male,Atypical Angina,130,219,Normal,LV Hypertrophy,188,No pain,0.0,1,0,Normal,Absence,41-50yrs
+252,44,Male,Asymptomatic,112,290,Normal,LV Hypertrophy,153,No pain,0.0,1,1,Normal,Presence,41-50yrs
+253,51,Male,Non-Anginal Pain,110,175,Normal,Normal,123,No pain,0.6,1,0,Normal,Absence,51-60yrs
+254,59,Male,Non-Anginal Pain,150,212,High (> 120),Normal,157,No pain,1.6,1,0,Normal,Absence,51-60yrs
+255,71,Female,Atypical Angina,160,302,Normal,Normal,162,No pain,0.4,1,2,Normal,Absence,71-80yrs
+256,61,Male,Non-Anginal Pain,150,243,High (> 120),Normal,137,Pain,1.0,2,0,Normal,Absence,61-70yrs
+257,55,Male,Asymptomatic,132,353,Normal,Normal,132,Pain,1.2,2,1,Reversible Defect (Active),Presence,51-60yrs
+258,64,Male,Non-Anginal Pain,140,335,Normal,Normal,158,No pain,0.0,1,0,Normal,Presence,61-70yrs
+259,43,Male,Asymptomatic,150,247,Normal,Normal,171,No pain,1.5,1,0,Normal,Absence,41-50yrs
+260,58,Female,Non-Anginal Pain,120,340,Normal,Normal,172,No pain,0.0,1,0,Normal,Absence,51-60yrs
+261,60,Male,Asymptomatic,130,206,Normal,LV Hypertrophy,132,Pain,2.4,2,2,Reversible Defect (Active),Presence,51-60yrs
+262,58,Male,Atypical Angina,120,284,Normal,LV Hypertrophy,160,No pain,1.8,2,0,Normal,Presence,51-60yrs
+263,49,Male,Atypical Angina,130,266,Normal,Normal,171,No pain,0.6,1,0,Normal,Absence,41-50yrs
+264,48,Male,Atypical Angina,110,229,Normal,Normal,168,No pain,1.0,3,0,Reversible Defect (Active),Presence,41-50yrs
+265,52,Male,Non-Anginal Pain,172,199,High (> 120),Normal,162,No pain,0.5,1,0,Reversible Defect (Active),Absence,51-60yrs
+266,44,Male,Atypical Angina,120,263,Normal,Normal,173,No pain,0.0,1,0,Reversible Defect (Active),Absence,41-50yrs
+267,56,Female,Atypical Angina,140,294,Normal,LV Hypertrophy,153,No pain,1.3,2,0,Normal,Absence,51-60yrs
+268,57,Male,Asymptomatic,140,192,Normal,Normal,148,No pain,0.4,2,0,Fixed Defect (Past Attack),Absence,51-60yrs
+269,67,Male,Asymptomatic,160,286,Normal,LV Hypertrophy,108,Pain,1.5,2,3,Normal,Presence,61-70yrs
